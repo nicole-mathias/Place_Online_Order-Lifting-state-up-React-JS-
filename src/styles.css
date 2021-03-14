@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.border {
+  border-style: solid;
+  border-color: red;
+  padding: 1rem;
+  margin: 1rem;
+}
